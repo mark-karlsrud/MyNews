@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/comment"
+        app:showAsAction="ifRoom"
+        android:title="Comment"/>
+    <item android:id="@+id/italic"
+        app:showAsAction="ifRoom"
+        android:title="Italic"/>
+    <item android:id="@+id/bold"
+        app:showAsAction="always"
+        android:title="Bold"/>
+    <item android:id="@+id/underline"
+        app:showAsAction="always"
+        android:title="Underline"/>
+</menu>

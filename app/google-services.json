@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "202251129292",
+    "firebase_url": "https://mynews-b7592.firebaseio.com",
+    "project_id": "mynews-b7592",
+    "storage_bucket": "mynews-b7592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202251129292:android:ec2748e9f6ccda4f",
+        "android_client_info": {
+          "package_name": "com.markkarlsrud.mynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202251129292-idodue9v86nmuk0thbm2jtv3uej4oksb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIAvxbJMNlYiXttKDJ-x5xmoOaJv5Nunk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
